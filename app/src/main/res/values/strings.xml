@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">praktek modul 4</string>
+    <string name="nama">nama</string>
+    <string name="gender">gender</string>
+    <string name="hobi">hobi</string>
+    <string name="hobi">hobi</string>
+    <string name="pria">pria</string>
+    <string name="wanita">wanita</string>
+    <string name="coding">coding</string>
+    <string name="reading">reading</string>
+    <string name="traveling">traveling</string>
+</resources>
